@@ -28,3 +28,7 @@ input{
     padding: 2px;
     margin-top:5px;
 }
+
+fieldset{
+    padding: 10px;
+}
